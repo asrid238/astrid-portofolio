@@ -1,5 +1,4 @@
 body {
-  
   overflow-x: hidden;
 }
 .jumbotron {
@@ -23,7 +22,7 @@ body {
 
 .progress-box {
   display: flex;
-  width: auto;
+  width: 100vw;
   height: auto;
 }
 
